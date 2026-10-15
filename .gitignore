@@ -1,0 +1,10 @@
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+sample_data/
+sample_seed.py
+PROBLEM_STATEMENT.docx
+HROne_Attendance_API_Design_Development_Plan.pdf
